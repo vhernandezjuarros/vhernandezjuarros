@@ -19,6 +19,12 @@ Busco **prácticas profesionales** en Burgos para aplicar mis conocimientos, enf
 
 ---
 
+## 🎯 Disponibilidad para prácticas
+Actualmente estoy buscando **prácticas profesionales en Burgos** para realizar la FCT de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Estoy abierta a **colaborar en proyectos reales** que me permitan aprender y seguir creciendo como desarrolladora.
+
+---
+
 ## 🛠 Tecnologías y herramientas
 
 ![Java](https://img.shields.io/badge/Java-%23f89820?logo=java&logoColor=white)
