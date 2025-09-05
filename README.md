@@ -13,8 +13,8 @@ Busco **prácticas profesionales** en Burgos para aplicar mis conocimientos, enf
 - 📂 Subiendo y organizando mis proyectos del ciclo formativo.  
 - 🌱 Reforzando y practicando **Java**, **Android**, **SQL**.  
 - 🐍 Próximamente quiero aprender **Python** y otras tecnologías.
-- 🎯 Objetivo: prepararme para mis **prácticas en empresa** y crecer como desarrolladora.
-- 🤝 Abierta a colaborar en proyectos que me ayuden a seguir creciendo.  
+- 🎯 Objetivo: prepararme para las **prácticas en empresa**, crecer como desarrolladora y comenzar una carrera profesional en este sector.
+- 🤝 Abierta a colaborar en proyectos que me permitan aprender, aportar y seguir creciendo.  
 - ⚡ Fun fact: Vengo de otra rama profesional (ingeniería civil), y ahora estoy reinventándome en tecnología. 
 
 ---
